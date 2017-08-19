@@ -1,0 +1,20 @@
+{
+  "name": "react-map-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmith13194/react-map-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmith13194/react-map-backend/issues"
+  },
+  "homepage": "https://github.com/asmith13194/react-map-backend#readme"
+}
